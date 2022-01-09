@@ -120,7 +120,7 @@ class TheGame:
                 maxTime = 0
             return time.sleep(maxTime)
         else:
-            return time.sleep(0.089)
+            return time.sleep(0.087)
 
     def shortest_path(self, id1: int, id2: int) -> (float, list):
         (d, prev) = self.dikjestra(id1)
