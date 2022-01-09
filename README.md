@@ -90,7 +90,8 @@ Object that stores 3 values:
 * dikjestra - dikjestra algorithem
 
 ## RESULTS
-<img width="190" alt="Untitled" src="https://user-images.githubusercontent.com/93212774/148692534-b6833949-21d5-425b-bade-6ec0a472ebea.png">
+<img width="160" alt="res" src="https://user-images.githubusercontent.com/93212774/148694740-a838f9bd-bb1a-4afb-83c7-ce79b2f98494.png">
+
 
 ## HOW TO RUN
 * run the server using the command java -jar Ex4_Server_v0.0.jar 11 then run the Ex4.py file, enjoy :)
