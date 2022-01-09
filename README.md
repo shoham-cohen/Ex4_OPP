@@ -88,5 +88,6 @@ Object that stores 3 values:
 * dikjestra - dikjestra algorithem
 
 ## RESULTS
-![char](https://user-images.githubusercontent.com/93212774/148692396-21e8f1e6-b93b-4581-8664-65b8c24bd7f7.png)
+<img width="190" alt="Untitled" src="https://user-images.githubusercontent.com/93212774/148692534-b6833949-21d5-425b-bade-6ec0a472ebea.png">
+
 
