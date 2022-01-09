@@ -94,5 +94,6 @@ Object that stores 3 values:
 
 ## HOW TO RUN
 * run the server using the command java -jar Ex4_Server_v0.0.jar 11 then run the Ex4.py file, enjoy :)
+
 ![screen-capture](https://user-images.githubusercontent.com/93212774/148693505-86528dd5-cc17-4166-8d2d-61b1396d4cab.gif)
 
