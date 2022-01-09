@@ -92,3 +92,7 @@ Object that stores 3 values:
 ## RESULTS
 <img width="190" alt="Untitled" src="https://user-images.githubusercontent.com/93212774/148692534-b6833949-21d5-425b-bade-6ec0a472ebea.png">
 
+## HOW TO RUN
+
+![screen-capture](https://user-images.githubusercontent.com/93212774/148693505-86528dd5-cc17-4166-8d2d-61b1396d4cab.gif)
+
